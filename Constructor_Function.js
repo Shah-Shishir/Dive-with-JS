@@ -6,4 +6,4 @@ function CreateCircle(radius)
 	this.draw = function () { console.log("draw"); }
 }
  
-console.log(CreateCircle(1));
+console.log(new CreateCircle(1));

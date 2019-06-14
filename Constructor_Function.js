@@ -1,4 +1,4 @@
-// Constructor Function
+// Constructor_Function
  
 function CreateCircle(radius)
 {

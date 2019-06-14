@@ -1,4 +1,4 @@
-// Factory Function
+// Factory_Function
 
 function createCircle(radius) {
 	return {

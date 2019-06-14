@@ -1,4 +1,4 @@
-// Dynamic Nature Of Objects
+// Dynamic_Nature_Of_Objects
 
 const circle = {
 	radius : 1,

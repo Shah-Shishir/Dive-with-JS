@@ -6,3 +6,5 @@ console.log (Math.abs(-2.9));
 console.log (Math.round(-2.9));
 console.log (Math.max(1,2,3,4,5));
 console.log (Math.min(1,2,3,4,5));
+console.log (2.123456.toFixed(4));
+console.log (2.123456.toPrecision(4));

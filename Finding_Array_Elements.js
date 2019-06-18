@@ -1,4 +1,4 @@
-// Finding_Elements
+// Finding_Array_Elements
 
 let numbers = [1,2,3,1,4];
 

@@ -12,6 +12,9 @@ console.log(circle);
 for (let key in circle)
 	console.log(key,circle[key]);
 	
+let keys = Object.keys(circle);
+console.log(keys);
+	
 for (let key in circle)
 	if (typeof circle[key] !== 'function')
 		console.log(key,circle[key]);
